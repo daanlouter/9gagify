@@ -1,0 +1,23 @@
+body{
+	text-align:center;
+	margin: 40px;
+}
+
+button{
+	margin-bottom:40px;
+	height:60px;
+	border:none;
+	border-radius:50px;
+	background: purple;
+	color:white;
+	font-family:"Comic Sans MS";
+	font-size:16px;
+	padding:5px 20px;
+	line-height:1em;
+	outline:none;
+	cursor:pointer;
+}
+
+button:hover{
+	background:blue;
+}
